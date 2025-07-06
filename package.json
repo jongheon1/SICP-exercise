@@ -1,0 +1,9 @@
+{
+  "name": "SICP-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jongheon1/SICP-exercise.git",
+  "author": "jongheon1 <heon0128@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}

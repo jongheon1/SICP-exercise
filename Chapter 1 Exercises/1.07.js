@@ -36,7 +36,7 @@ function abs(x) {
         : -x;
 }
 
-sqrt(16);
+console.log(sqrt(16));
 
 // sqrt(0.16);
 
